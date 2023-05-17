@@ -1,4 +1,11 @@
 
+.Jeff-style {
+	color: hotpink;
+	background-color: black;
+	padding: 3px;
+}
+=======
+
 .jasmina-style {
     color: rgba(233, 30, 131, 0.918);
     background-color: black;
@@ -12,4 +19,5 @@
     background-color: yellow;
     padding: 6px
 }
+
 
